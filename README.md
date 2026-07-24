@@ -5,7 +5,7 @@ I build connected systems, from IoT and embedded devices to web applications, wi
 - 🧑🏻‍💻 Embedded Software Engineer at STC
 - 🌱 Currently working on my ever-evolving [homelab](https://github.com/gabrielaleks/kaos)
 - 🪴 Website: [gabrielaleks.com](https://gabrielaleks.com)
-- 💡 Interests: distributed Systems, software architecture and design, networks
+- 💡 Interests: distributed systems, software architecture and design, networks
 - 📫 Reach me at: hi@gabrielaleks.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielaleks)
 
