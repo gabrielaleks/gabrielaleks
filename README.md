@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel 👋
+# Hi, I'm Gabriel :)
 
 I build connected systems, from IoT and embedded devices to web applications, with a focus on reliability, clean architecture and thoughtful design.
 
