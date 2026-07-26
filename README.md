@@ -20,6 +20,7 @@ Technologies I use regularly or have worked with in the past:
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 **Platform & Services**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
